@@ -105,3 +105,5 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 
 ## 📄 Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](https://github.com/apolinario0x21/unitTestWithReact/blob/main/LICENSE) para mais detalhes.
+
+Feito com ❤️ por ```apolinario0x21```
